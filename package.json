@@ -1,0 +1,24 @@
+{
+  "name": "fus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-fileupload": "^1.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rikichirinkato/fus.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rikichirinkato/fus/issues"
+  },
+  "homepage": "https://github.com/Rikichirinkato/fus#readme"
+}
